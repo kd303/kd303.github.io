@@ -1,11 +1,19 @@
-## Welcome to GitHub Pages
+## A generic site on Microservice and related Architecture issues
 
-You can use the [editor on GitHub](https://github.com/kd303/kd303.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+A generic site to document my thoughst on architecture issues. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Key Concerns
 
-### Markdown
+1. Protocols  (Http2, Json/HTTP, gRPC, Thrift, Avro - and issues around that)
+2. Service Mesh  (Why, what problems does it solve, issues)
+3. Kubernetes Design Concerns (DNS resolution, storage, Policy Governance, logging/tracing)
+4. Patterns of Services (Request/response, Event Driven)
+5. Schema Design issues (Backward/Forward compatibility)
+6. Tooling (Various Frameworks - I came across and my understanding)
+7. Security (Certificates, Secrets, RBAC, Data Security/Authroization)
+8. Resiliancy, load-balancing, failures
 
+<!--
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -35,3 +43,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-->
