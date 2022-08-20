@@ -1,0 +1,10 @@
+# HTTP2/GRPC based Patterns
+
+## Why http2 over http 1.1
+
+1. ### Web Performance ### : A detailed control available to developers over prioritization. Which peiece of content to load first is controlled via **weighted prioritization**.
+via multiplexing server sends the content over multiple data streams, each stream has different weighted value, value tells the client which one to render first. 
+This works great for content serving - need to see whether there would be any benifits for application/services. Same strict origin issues causes 
+
+2. ### Server push - 
+ 
