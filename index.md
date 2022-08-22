@@ -1,10 +1,10 @@
-## A generic site on Microservice and related Architecture issues
+## A collection on Microservice and related Architecture issues
 
-A generic site to document my thoughst on architecture issues. 
+At best these are my musing on Microservice architecture and core issues that affects that needs to be thought through before the designing something useful. By no means this is a complete list, these are the things that caught my eye.
 
 ### Key Concerns
 
-1. [Protocols](/protocol/h2.md)  (Http2, Json/HTTP, gRPC, Thrift, Avro - and issues around that)
+1. [Protocols](/protocol/h2.md)  (Http2, Json/HTTP, gRPC, REST, Open API)
 2. Service Mesh  (Why, what problems does it solve, issues)
 3. Kubernetes Design Concerns (DNS resolution, storage, Policy Governance, logging/tracing)
 4. Patterns of Services (Request/response, Event Driven)
