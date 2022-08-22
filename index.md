@@ -12,6 +12,7 @@ At best these are my musing on Microservice architecture and core issues that af
 6. Tooling (Various Frameworks - I came across and my understanding)
 7. Security (Certificates, Secrets, RBAC, Data Security/Authroization)
 8. Resiliancy, load-balancing, failures
+9. [DevOPS](./devops/)
 
 <!--
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
