@@ -4,7 +4,7 @@ A generic site to document my thoughst on architecture issues.
 
 ### Key Concerns
 
-1. [Protocols](/h2/protocol)  (Http2, Json/HTTP, gRPC, Thrift, Avro - and issues around that)
+1. [Protocols](/h2/protocol.md)  (Http2, Json/HTTP, gRPC, Thrift, Avro - and issues around that)
 2. Service Mesh  (Why, what problems does it solve, issues)
 3. Kubernetes Design Concerns (DNS resolution, storage, Policy Governance, logging/tracing)
 4. Patterns of Services (Request/response, Event Driven)
