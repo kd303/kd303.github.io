@@ -6,7 +6,7 @@ At best these are my musing on Microservice architecture and core issues that af
 
 1. [Protocols](/protocol/h2.md)  (Http2, Json/HTTP, gRPC, REST, Open API)
 2. Service Mesh  (Why, what problems does it solve, issues)
-3. [Kubernetes Design Concerns (DNS resolution, storage, Policy Governance, logging/tracing)](/k8s/.)
+3. [Container Design Concerns (DNS resolution, storage, Policy Governance, logging/tracing)](/k8s/.)
 4. Patterns of Services (Request/response, Event Driven)
 5. Schema Design issues (Backward/Forward compatibility)
 6. Tooling (Various Frameworks - I came across and my understanding)
